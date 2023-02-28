@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Crews / Site Title"
+title                    : "John Crews / Academic Profile"
 title_separator          : "-"
 name                     : &name "John Crews"
 description              : &description "Master of Maps... Mapster if you will"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "John Crews"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
