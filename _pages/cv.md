@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.A. in General Studies, Frederick Community College, 2020
+* B.S. in Management of Geospatial Data for National Security, University of Maryland Baltimore County, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Dish Washer
+  * Camp Sinoquippe
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
