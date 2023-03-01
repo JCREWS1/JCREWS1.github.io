@@ -55,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 3 Years of Air Force ROTC
+*   Trained and evaluated 20 Sophomores for Field Training
