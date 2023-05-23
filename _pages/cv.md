@@ -27,11 +27,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
 * GIS Software
   * ArcGIS
   * QGIS
-* Skill 3
+
 
 
 Service and leadership
