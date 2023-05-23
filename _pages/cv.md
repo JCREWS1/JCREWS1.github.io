@@ -18,10 +18,11 @@ Education
 Work experience
 ======
 * Summer 2021: Stoker/Reciver
-  *Lowes
+  * Lowes
   
 *Winter 2021-22: Material Handler
-  *Manpower
+  * Manpower
+ 
 *Fall 2022-Present: Air Force Reserves
   * United States Air Force
   
