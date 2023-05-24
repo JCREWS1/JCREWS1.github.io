@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Crews / Academic Profile"
 title_separator          : "-"
 name                     : &name "John Crews"
-description              : &description "Master of Maps... Mapster if you will"
+description              : &description 
 url                      : https://jcrews1.github.io/ # the base hostname & protocol for your site e.g. "https://JCREWS1.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JCREWS1/JCREWS1.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "John Crews"
   avatar           : "Profile.jpg"
-  bio              : "Individualized Studies student studying Mangagement of Geospatial Data for National Security"
+  bio              : "Studying Mangagement of Geospatial Data for National Security at UMBC"
   location         : "Knoxville, MD"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            :"jcrews1@umbc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
