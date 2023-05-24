@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Public Transport in Baltimore City"
+excerpt: "An analysis of public transport and car ownership information in Baltimore city<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+This study looked at public transportation in Baltimore and how it affects the city's residents. We found that many people in Baltimore don't have cars, especially in lower-income areas. These areas are also far from public transit stops, making it difficult for people to get around. The study shows that we need to improve public transportation in Baltimore to help everyone, especially those who can't afford a car. By considering the needs of different communities, we can create a fair and better transportation system in the city.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+
+
+
